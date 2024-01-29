@@ -4,12 +4,20 @@
 - 👨🏻‍💻 I’m working on improving my online presence.
 - 🌱 I’m learning **MLOps**.
 
-### My Tech Stack
+<details>
+<summary>
+  
+  ### My Tech Stack
+  
+</summary>
+
 - **Daily drive**: Python (Jupyter Notebook, Pandas, Numpy, PyTorch, PySpark, FastAPI), R, Git, SQL.
 - **Few times a week**: CI/CD (mostly Github Actions), Spread Sheets, Hugging Face, BigQuery, TF.
 - **Few times a month**: Tableau, Docker, MySQL, C++, Java, LaTex.
 - **Need some warm-up**: Matlab/Octave, Redis, MongoDB, MSSQL, Oracle DB.
 - **Acquiring**: Kubernetes, Go.
+  
+</details>
 
 ### Portfolio (expanding rapidly)
 - [Lossless Data Compression with Machine Learning](https://github.com/HongHaiPV/ml-zip).
