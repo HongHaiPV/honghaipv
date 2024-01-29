@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi 👋, I’m Vu-Hong-Hai or Hai (for short),
 
-<!--
-**HongHaiPV/honghaipv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 I’m currently working as a freelancer working mostly in Data Science, sometimes I play Software Engineer role.
+- 👨🏻‍💻 I’m working on improving my online presence.
+- 🌱 I’m learning **MLOps**.
 
-Here are some ideas to get you started:
+### My Tech Stack
+- **Daily drive**: Python (Jupyter Notebook, Pandas, Numpy, PyTorch, PySpark, FastAPI), R, Git, SQL.
+- **Few times a week**: CI/CD (mostly Github Actions), Spread Sheets, Hugging Face, BigQuery, TF.
+- **Few times a month**: Tableau, Docker, MySQL, C++, Java, LaTex.
+- **Need some warm-up**: Matlab/Octave, Redis, MongoDB, MSSQL, Oracle DB.
+- **Acquiring**: Kubernetes, Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Portfolio (expanding rapidly)
+- [Lossless Data Compression with Machine Learning](https://github.com/HongHaiPV/ml-zip).
+- [Bixi Data Analysis](https://github.com/HongHaiPV/BixiDataAnalysis).
+
+<details><summary>Why is the list so short?</summary>
+  The combination of working on proprietary projects and the lack of attention to personal branding (fixing).
+</details>
+
+### Certificates
+- [Google Data Analytic](https://www.credly.com/badges/b245e07f-b19e-4811-8f92-9ea89df589b0/public_url).
+
+### Research interests
+- Causal Inference + ML, NLP, Type II (still at the reading stage).
+
+### Want to connect?
+- Email: honghaipvu at gmail dot com.
+- LinkedIn: /vhhphan (I'm shy, please accompany a note).
