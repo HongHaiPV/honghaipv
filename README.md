@@ -19,7 +19,7 @@
   
 </details>
 
-### Portfolio (expanding rapidly)
+### Portfolio (oudated)
 - [Lossless Data Compression with Machine Learning](https://github.com/HongHaiPV/ml-zip).
 - [Bixi Data Analysis](https://github.com/HongHaiPV/BixiDataAnalysis).
 
